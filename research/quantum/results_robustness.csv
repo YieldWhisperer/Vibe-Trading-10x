@@ -1,0 +1,6 @@
+stream,mean_r,random_mean_r,random_p95,p_random,stress_net_r,stress_A_pf,stress_B_pf,variants_profitable_both
+XAUUSD:QTX,0.116,0.007,0.096,0.025,38.3,1.07,1.26,8/8
+XAGUSD:QTX,0.093,-0.07,-0.001,0.025,15.2,1.25,1.29,8/8
+USDJPY:QTX,0.116,0.025,0.118,0.075,55.5,1.28,1.12,8/8
+USDJPY:QBX,0.107,0.05,0.099,0.025,88.6,1.18,1.1,8/8
+USTEC:QBX,0.091,0.024,0.067,0.05,84.3,1.14,1.13,8/8
